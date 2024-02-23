@@ -1,0 +1,27 @@
+# Archivos de compilación de Java #
+*.class
+
+# Paquetes #
+*.jar
+*.war
+*.ear
+
+# Archivos y directorios generados por el IDE #
+/bin/
+/target/
+/out/
+*.iml
+.idea/
+*.eclipse
+*.project
+.classpath
+.settings/
+
+# Archivos de sistema operativo #
+.DS_Store
+Thumbs.db
+
+# Otros archivos y directorios a ignorar #
+logs/
+*.log
+temp/
